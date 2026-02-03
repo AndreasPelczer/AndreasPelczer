@@ -1,36 +1,44 @@
 # Hey, ich bin Andreas
 
-**30 Jahre Küche. Jetzt Code.**
+**36 Jahre Produktion. Jetzt Systeme.**
 
-Gardemanger, Souschef, Küchenchef - und irgendwann gemerkt dass ich lieber Systeme baue als Saucen. Jetzt mach ich iOS-Apps für Leute die richtig arbeiten.
+Gardemanger, Souschef, Küchenchef — und irgendwann gemerkt, dass das eigentliche Problem nie die Sauce war, sondern das System drumherum. Heute baue ich Software für Menschen, die unter Druck arbeiten.
 
 ---
 
 ### Was ich baue
 
-Apps für Gastronomie und Produktion. Offline-fähig, weil im Keller kein Netz ist. Schnell, weil um 20:30 keiner Zeit hat zu warten.
+iOS-Anwendungen für Gastronomie, Produktion und Gemeinschaftsverpflegung. Offline-fähig, weil im Keller kein Netz ist. Schnell, weil um 20:30 keiner Zeit hat zu warten.
 
 | Projekt | Kurz gesagt |
-|---------|-------------|
-| **iMOPS** | Produktionssteuerung. HACCP-Dokumentation die nicht nervt. |
+| --- | --- |
+| **iMOPS** | In-Memory Kernel für Produktionssteuerung. HACCP-konform, offline, deterministisch. |
 | **Seubert-Assistent** | Produktinfos am Regal, ohne Suchen. |
 | **ChefIQ** | Nährwerte + Allergene + KI. Für Diätküchen. |
 | **Kantina** | Speisepläne. Weniger Müll, mehr System. |
 
 ---
 
-### Warum ich das mache
+### Hintergrund
 
-Ich hab 30 Jahre mit Software gearbeitet die von Leuten gebaut wurde die noch nie eine Küche von innen gesehen haben. Jetzt bau ich selbst.
+36 Jahre Erfahrung in professionellen Küchen und Produktionsumgebungen — von Großverpflegung über Bundeswehr-Brigaden bis zur Sterneküche. ISO 9001, HACCP, Teamaufbau in mehrsprachigen Brigaden.
 
-Meine Apps sprechen die Sprachen die wirklich gesprochen werden - Twi, Thai, Türkisch. Nicht weil's fancy ist, sondern weil das die Leute sind die den Laden am Laufen halten.
+Daraus entstanden: ein publiziertes Fachbuch, ein Open-Source-Kernel und eine eigene Firma.
+
+**Publikation:** *Thermodynamik der Arbeit – Warum Systeme kollabieren und was wir dagegen tun können* (2025, Amazon KDP)
+
+**Unternehmen:** Dead Rabbit Productions
 
 ---
 
 ### Womit ich arbeite
 
-Swift, SwiftUI, CoreData, Xcode. Kein Schnickschnack.
+Swift, SwiftUI, SwiftData, Xcode. Kein Schnickschnack.
 
 ---
 
-*"Die Suppe lügt nicht."*
+### Kontakt
+
+Offen für Austausch zu Produktionssystemen, angewandter Arbeitsforschung und iOS-Architektur.
+
+[GitHub](https://github.com/AndreasPelczer)
