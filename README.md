@@ -25,7 +25,7 @@ iOS-Anwendungen für Gastronomie, Produktion und Gemeinschaftsverpflegung. Offli
 
 Daraus entstanden: ein publiziertes Fachbuch, ein Open-Source-Kernel und eine eigene Firma.
 
-**Publikation:** *Thermodynamik der Arbeit – Warum Systeme kollabieren und was wir dagegen tun können* (2025, Amazon KDP)
+**Publikation:** *Thermodynamik der Arbeit – Warum Systeme kollabieren* (2025, Amazon KDP)
 
 **Unternehmen:** Dead Rabbit Productions
 
