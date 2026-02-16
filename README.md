@@ -8,19 +8,47 @@ Gardemanger, Souschef, Küchenchef — und irgendwann gemerkt, dass das eigentli
 
 ---
 
-### Was ich baue
+### Gastrosoftware
 
-iOS-Anwendungen für Gastronomie, Produktion und Gemeinschaftsverpflegung. Offline-fähig, weil im Keller kein Netz ist. Schnell, weil um 20:30 keiner Zeit hat zu warten.
+Mein Fokus: iOS-Anwendungen für Gastronomie, Produktion und Gemeinschaftsverpflegung. Offline-fähig, weil im Keller kein Netz ist. Schnell, weil um 20:30 keiner Zeit hat zu warten.
 
-| Projekt | Kurz gesagt |
+---
+
+#### GastroGrid — Produktionssteuerung für die Küche
+
+Ereignisbasiertes Produktions-Grid für Gastronomiebetriebe. Rollenbasiert, prüfbar, offline-fähig. Bringt Struktur in den Ablauf — vom Wareneingang bis zur Ausgabe.
+
+**Status:** TestFlight-ready. Einreichung bei Apple nächste Woche.
+
+---
+
+#### Matjes, der kleine Hering — Das Ausbildungsspiel
+
+Gamifizierte Lern-App für Kochlehrlinge. 20 Level in 4 Halbjahren, ~566 Quizfragen nach Bloom-Taxonomie, integriertes Lexikon (Produkte, Garmethoden, Saucen), Commis-Prüfung und Bossfight. Macht Warenkunde zum Spiel.
+
+**Status:** Bei Apple zur Prüfung eingereicht.
+
+[Repository](https://github.com/AndreasPelczer/AusbildungsSpielKoch)
+
+---
+
+### Weitere Projekte
+
+| Projekt | Kurz gesagt | Status |
+|---|---|---|
+| [moneypath26](https://github.com/AndreasPelczer/moneypath26) | Finanz-App. Einnahmen, Ausgaben, Überblick. | Im App Store |
+| [SOLARA](https://github.com/AndreasPelczer/SOLARIS) | Satirische To-Do-App. Kosmische Zustände, esoterische Pop-ups, 30% Chance auf „Nein". | Bei Apple zur Prüfung |
+| [Seubert-Assistent](https://github.com/AndreasPelczer/Seubert-Assistent) | Produktinfos am Regal, ohne Suchen. | — |
+| [ChefIQ](https://github.com/AndreasPelczer/ChefIQ-Clinical-Culinary-Intelligence) | Nährwerte + Allergene + KI. Hybrides Assistenzsystem für Diätküchen. | — |
+| Kantina | Speisepläne. Weniger Müll, mehr System. | In Planung |
+
+---
+
+### Unter der Haube
+
+| Projekt | Was es ist |
 |---|---|
-| [iMOPS](https://github.com/AndreasPelczer/iMOPS_OS_CORE) | In-Memory Kernel für Produktionssteuerung. HACCP-konform, offline, deterministisch. |
-| iMOPS Gastro Grid | Ereignisbasiertes Produktions-Grid für Gastronomiebetriebe. Rollenbasiert, prüfbar, offline-fähig. |
-| [Seubert-Assistent](https://github.com/AndreasPelczer/Seubert-Assistent) | Produktinfos am Regal, ohne Suchen. |
-| [ChefIQ](https://github.com/AndreasPelczer/ChefIQ-Clinical-Culinary-Intelligence) | Nährwerte + Allergene + KI. Hybrides Assistenzsystem für Diätküchen. |
-| Kantina | Speisepläne. Weniger Müll, mehr System. |
-| [SOLARA](https://github.com/AndreasPelczer/SOLARIS) | Satirische To-Do-App. Kosmische Zustände, esoterische Pop-ups, und eine 30%-Chance dass die App „Nein" sagt. |
-| [moneypath26](https://github.com/AndreasPelczer/moneypath26) | Finanz-App. Im App Store. |
+| [iMOPS](https://github.com/AndreasPelczer/iMOPS_OS_CORE) | In-Memory Kernel für Produktionssteuerung. HACCP-konform, offline, deterministisch. Die Basis hinter GastroGrid. |
 
 ---
 
@@ -32,8 +60,7 @@ Daraus entstanden: ein publiziertes Fachbuch, ein Open-Source-Kernel.
 
 **Publikation:** *Thermodynamik der Arbeit — Warum Systeme kollabieren* (2025, Amazon KDP)
 **Memoir:** *Der Küchencode* (in Arbeit, ~70% fertig)
-**Unternehmen:** Bald: Dead Rabbit Productions
-
+**Unternehmen:** Bald: BINDA
 ---
 
 ### Stack
@@ -61,4 +88,4 @@ Offen für Austausch zu Produktionssystemen, angewandter Arbeitsforschung und iO
 
 ---
 
-<sub>© 2026 Dead Rabbit Productions · Frankfurt am Main / Wertheim · MEMENTO MORI</sub>
+<sub>© 2026 BINDA Productions · Frankfurt am Main / Wertheim · MEMENTO MORI</sub>
