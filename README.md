@@ -24,7 +24,7 @@ Ereignisbasiertes Produktions-Grid für Gastronomiebetriebe. Rollenbasiert, prü
 
 #### Matjes, der kleine Hering — Das Ausbildungsspiel
 
-Gamifizierte Lern-App für Kochlehrlinge. 20 Level in 4 Halbjahren, ~566 Quizfragen nach Bloom-Taxonomie, integriertes Lexikon (Produkte, Garmethoden, Saucen), Commis-Prüfung und Bossfight. Macht Warenkunde zum Spiel.
+Gamifizierte Lern-App für Kochlehrlinge. 60 Level in 6 Halbjahren, ~566 Quizfragen nach Bloom-Taxonomie, integriertes Lexikon (Produkte, Garmethoden, Saucen), Commis-Prüfung und Bossfight. Macht Warenkunde zum Spiel.
 
 **Status:** Bei Apple zur Prüfung eingereicht.
 
