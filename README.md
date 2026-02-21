@@ -2,85 +2,56 @@
 
 # Hey, ich bin Andreas
 
-**36 Jahre Produktion. Jetzt Systeme.**
+**36 Jahre Küche. Jetzt Code und Bücher.**
 
-Gardemanger, Souschef, Küchenchef — und irgendwann gemerkt, dass das eigentliche Problem nie die Sauce war, sondern das System drumherum. Heute baue ich Software für Menschen, die unter Druck arbeiten.
-
----
-
-### Gastrosoftware
-
-Mein Fokus: iOS-Anwendungen für Gastronomie, Produktion und Gemeinschaftsverpflegung. Offline-fähig, weil im Keller kein Netz ist. Schnell, weil um 20:30 keiner Zeit hat zu warten.
+Gardemanger → Souschef → Küchenchef → iOS-Entwickler → Autor. Kein gerader Weg, aber jeder Umweg hatte einen Grund. Wer 600 Leute am Tag satt kriegen muss, lernt Systeme zu bauen.
 
 ---
 
-#### GastroGrid — Produktionssteuerung für die Küche
+### Was ich baue
 
-Ereignisbasiertes Produktions-Grid für Gastronomiebetriebe. Rollenbasiert, prüfbar, offline-fähig. Bringt Struktur in den Ablauf — vom Wareneingang bis zur Ausgabe.
+Apps für Menschen die unter Druck arbeiten. Offline-fähig, weil im Keller kein Netz ist. Schnell, weil um 20:30 keiner Zeit hat zu warten.
 
-**Status:** TestFlight-ready. Einreichung bei Apple nächste Woche.
-
----
-
-#### Matjes, der kleine Hering — Das Ausbildungsspiel
-
-Gamifizierte Lern-App für Kochlehrlinge. 60 Level in 6 Halbjahren, ~566 Quizfragen nach Bloom-Taxonomie, integriertes Lexikon (Produkte, Garmethoden, Saucen), Commis-Prüfung und Bossfight. Macht Warenkunde zum Spiel.
-
-**Status:** Bei Apple zur Prüfung eingereicht.
-
-[Repository](https://github.com/AndreasPelczer/AusbildungsSpielKoch)
+| Projekt | Was es macht | Status |
+| --- | --- | --- |
+| [**iMOPS Gastro-Grid**](https://github.com/AndreasPelczer/iMOPS_OS_CORE) | Küchenmanagement. HACCP, Crew-Planung, Produktionssteuerung. MUMPS-inspiriert. | ✅ Im App Store |
+| [**iMOPS Construction Grid**](https://github.com/AndreasPelczer/iMOPS-Construction-Grid-Baustellen-Management.) | Baustellenmanagement. Aufträge, Checklisten, SOP-Templates, 3D-Visualisierung via SketchUp. | 🚧 In Entwicklung |
+| [**Matjes, der junge Hering**](https://github.com/AndreasPelczer/Matjes) | Lern-App für die Kochausbildung. Spielerisch zur IHK-Prüfung. | ✅ Im App Store |
+| **MoneyPath2026** | Personal Finance. Einfach, ehrlich, ohne Werbung. | ✅ Im App Store |
+| **SOLARA** | Satirische To-Do-App. Sagt manchmal einfach Nein. | ✅ Im App Store |
+| **FotoFest** | Hochzeits-Foto-App. Firebase + Web + iOS. | 🧪 TestFlight |
 
 ---
 
-### Weitere Projekte
+### Was ich schreibe
 
-| Projekt | Kurz gesagt | Status |
-|---|---|---|
-| [moneypath26](https://github.com/AndreasPelczer/moneypath26) | Finanz-App. Einnahmen, Ausgaben, Überblick. | Im App Store |
-| [SOLARA](https://github.com/AndreasPelczer/SOLARIS) | Satirische To-Do-App. Kosmische Zustände, esoterische Pop-ups, 30% Chance auf „Nein". | Bei Apple zur Prüfung |
-| [Seubert-Assistent](https://github.com/AndreasPelczer/Seubert-Assistent) | Produktinfos am Regal, ohne Suchen. | — |
-| [ChefIQ](https://github.com/AndreasPelczer/ChefIQ-Clinical-Culinary-Intelligence) | Nährwerte + Allergene + KI. Hybrides Assistenzsystem für Diätküchen. | — |
-| Kantina | Speisepläne. Weniger Müll, mehr System. | In Planung |
+| Buch | Verlag | Status |
+| --- | --- | --- |
+| **Thermodynamik der Arbeit** | B.I.N.D.A. Verlag / Amazon KDP | ✅ Veröffentlicht |
+| **Der junge Hering** – Dein Begleiter durch die Kochausbildung | B.I.N.D.A. Verlag / Amazon KDP | ✅ Veröffentlicht |
+| **Der Küchencode** – Memoir | B.I.N.D.A. Verlag | 📝 In Arbeit |
 
 ---
 
-### Unter der Haube
+### Womit ich arbeite
 
-| Projekt | Was es ist |
-|---|---|
-| [iMOPS](https://github.com/AndreasPelczer/iMOPS_OS_CORE) | In-Memory Kernel für Produktionssteuerung. HACCP-konform, offline, deterministisch. Die Basis hinter GastroGrid. |
+Swift · SwiftUI · Core Data · SwiftData · Xcode · Firebase · Python · Git
 
 ---
 
-### Hintergrund
+### Die Idee hinter allem
 
-36 Jahre Erfahrung in professionellen Küchen und Produktionsumgebungen — von Großverpflegung über Bundeswehr-Brigaden bis zur Sterneküche. ISO 9001, HACCP, Teamaufbau in mehrsprachigen Brigaden.
+Ich hab 36 Jahre mit Software gearbeitet, die von Leuten gebaut wurde, die noch nie eine Küche von innen gesehen haben. Jetzt bau ich selbst – für Küchen, Baustellen, und überall wo Menschen unter Druck produzieren.
 
-Daraus entstanden: ein publiziertes Fachbuch, ein Open-Source-Kernel.
-
-**Publikation:** *Thermodynamik der Arbeit — Warum Systeme kollabieren* (2025, Amazon KDP)
-**Memoir:** *Der Küchencode* (in Arbeit, ~70% fertig)
-**Unternehmen:** Bald: BINDA
----
-
-### Stack
-
-Swift · SwiftUI · SwiftData · Xcode
-
-Kein Schnickschnack.
+**Offline-first.** Weil stabiles Internet die Ausnahme ist, nicht die Regel.
+**Menschenzentriert.** Weil Software für Menschen arbeiten soll, nicht gegen sie.
+**Deterministisch.** Weil in der Produktion kein Platz für "vielleicht" ist.
 
 ---
 
-### Prinzipien
+🌐 [pelczer.de](https://pelczer.de) · 📚 [Amazon](https://www.amazon.de/s?k=Andreas+Pelczer) · 💼 [LinkedIn](https://www.linkedin.com/in/andreas-pelczer-5b5050160/)
 
-**Offline zuerst** — Im Keller gibt's kein WLAN. Die Software muss laufen — immer.
-**Menschen über Profit** — Systeme die funktionieren, entlasten Menschen.
-**Korrektes Verhalten, einfach gemacht** — Wenn das Richtige schwerer ist als das Falsche, ist das System schuld.
-**Kein Schnickschnack** — SET / GET / KILL. Fertig.
-
----
-
-### Kontakt
+*"Das Problem war nie die Sauce."*
 
 Offen für Austausch zu Produktionssystemen, angewandter Arbeitsforschung und iOS-Architektur.
 
